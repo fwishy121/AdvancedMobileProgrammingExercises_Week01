@@ -1,1 +1,1 @@
-"# Advanced Mobile Programming Exercises - Week 1" 
+"Advanced Mobile Programming Exercises - Week 1" 
